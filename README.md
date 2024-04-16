@@ -10,7 +10,7 @@ El objetivo de tu aplicación es evaluar el resultado de una pelea hipotética e
 
 ---
 
-<img/preview de desafio 0 apx.png>
+![alt text](image.png)
 
 ---
 
